@@ -1,2 +1,2 @@
-# Study-Kaggle-Winning-Solutions
-Top Kaggle Winning Notebooks have been researched and analysed for building advanced machine learning solutions
+# Study-Kaggle-Notebooks-and-Solutions
+Study Prize Winning &amp; Medal Winning Solutions of Kaggle Competitions and also useful analysis notebooks for various datasets
